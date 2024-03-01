@@ -1,0 +1,14 @@
+{
+  "name": "proyectosm7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "app": "node app.js",
+    "sum": "node operations/sum.js",
+    "sub": "node operations/sub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
